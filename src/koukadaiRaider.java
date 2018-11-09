@@ -6,7 +6,6 @@ public class lol {
 	public static final Scanner USERINPUT = new Scanner(System.in);
 	
     public static void main(String[] args) {
-        System.out.println("ゲーム開始");
         mainMenu();
         //Map map = new Map();
        // Move mv = new Move();
